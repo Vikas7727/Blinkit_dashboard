@@ -1,1 +1,2 @@
 # Blinkit_dashboard
+Developed a comprehensive Blinkit dashboard using Power BI to analyze and visualize key business metrics, including sales performance, delivery efficiency, customer satisfaction, and inventory management. Designed interactive and visually appealing dashboards with filters and drill-down capabilities for dynamic data exploration. Enabled stakeholders to make data-driven decisions by providing actionable insights through real-time data updates and trend analysis.
